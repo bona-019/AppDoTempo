@@ -2,7 +2,7 @@ import requests
 
 class Weather():
     def __init__(self, cidade, units, lang):
-        self.API_KEY = '851c344f600932ac7a62bb8a26c4dbe0'
+        self.API_KEY = ''
         self.cidade = cidade
         self.units = units
         self.lang = lang
