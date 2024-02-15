@@ -1,3 +1,4 @@
+# (PT-BR)
 # AppDoTempo
 App feito em Python utilizando a biblioteca Dash e pegando dados da API do OpenWeather.
 
@@ -8,5 +9,13 @@ App feito em Python utilizando a biblioteca Dash e pegando dados da API do OpenW
 <br/>
 `weatherGui.py`: Contém toda a estrutura do app utilizando a biblioteca Dash.
 
-# Futuros updates
-Mais opções de localização e mostrar a previsão do tempo para os dias seguintes.
+# (EN)
+# AppDoTempo
+App developed in Python using the Dash library and requesting data from the OpenWeather API.
+
+# Files
+`weatherRequest.py`: Contains all the necessary data to call the API and functions that return the actual temperature, thermal sensation, max and min temperatures. 
+<br/>
+`weatherStyles.py`: Contains all the CSS styles used in the app construction.  
+<br/>
+`weatherGui.py`: Contains all the app sctructure using the Dash library.
